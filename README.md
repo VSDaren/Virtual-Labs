@@ -1,4 +1,4 @@
-# Vitual-Labs
+# Virtual-Labs
 Repositorio donde se recopilan máquinas virtuales de Linux para la identificación de tráfico en redes
 El laboratorio está compuesto por dos máquinas virtuales conectadas a través de una red interna aislada en VirtualBox, garantizando un entorno seguro para capturas de red sin afectar el tráfico físico
 
