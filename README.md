@@ -14,15 +14,15 @@ Red Interna: LAB-CIA
    OS: Debian 13 (Trixie)
    Rol: Servidor Objetivo y analisis de paquetes
    Herramientas preconfiguradas destacadas:
-     Snort3: Configurado para inspección de tráfico (Nota: La versión de Snort utilizada se compiló desde su código fuente ya que la versión estandarizada no se encuentra en los repositorios de Debian Trixie, por lo que se debe tener a consideración para la configuración posterior.
-     Suricata: Configurado como motor de detección de intrusiones para el analisis de red y monitoreo de amenazas
+   Snort3: Configurado para inspección de tráfico (Nota: La versión de Snort utilizada se compiló desde su código fuente ya que la versión estandarizada no se encuentra en los repositorios de Debian Trixie, por lo que se debe tener a consideración para la configuración posterior.
+   Suricata: Configurado como motor de detección de intrusiones para el analisis de red y monitoreo de amenazas
 
-Instrucciones para el despliegue de los entornos:
+### Instrucciones para el despliegue de los entornos:
   Para poder utilizar el entorno sin la necesidad de tener que instalar y configurar las herramientas descargue las imágenes exportadas.
 
   ### Enlaces de descarga (Archivos .ova)
-1. Kali Linux (LAB-CIA.ova) - 7.01GB | [Enlace de descarga]
-2. Debian Trixie Linux (Debian.ova) - 6.62GB | [Enlace de descarga]
+1. Kali Linux (LAB-CIA.ova) - 7.01GB | [https://drive.google.com/file/d/1HDTV_5nmhuSjNYNFJtN2QMXjnifLTW8O/view?usp=drive_link]
+2. Debian Trixie Linux (Debian.ova) - 6.62GB | [https://drive.google.com/file/d/1SOq3AknLs92dPsnml8Sk6HeI1S19k5Kk/view?usp=drive_link]
 
    ### Instrucciones de importación
 1. Descargue las imágenes .ova proporcionadas en la sección de descargas más arriba.
